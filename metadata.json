@@ -1,0 +1,5 @@
+{
+  "name": "Mini CRM",
+  "description": "A mini Customer Relationship Management (CRM) application to manage customers and leads, featuring a dashboard with analytics.",
+  "requestFramePermissions": []
+}
